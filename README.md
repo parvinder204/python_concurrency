@@ -145,7 +145,7 @@ This simplifies memory management but restricts true multithreaded CPU execution
 
 Therefore:
 * Use **threads** for I/O workloads
-* Use **multiprocessing** for CPU workloads
+* Use **multiprocessing** for CPU workloads 
 
 
 ## Learning Outcome
@@ -157,3 +157,5 @@ This project provides practical insight into:
 * When to use threads, processes, or async programming
 
 These concepts are fundamental for building scalable Python backend systems.
+
+Connect : techpinda1214@gmail.com
